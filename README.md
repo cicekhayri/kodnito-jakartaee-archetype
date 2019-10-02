@@ -4,4 +4,4 @@ Jakarta EE ArcheType
 
 Generate a new project using the following command:
 
-mvn archetype:generate -DarchetypeGroupId=com.kodnito -DarchetypeArtifactId=kodnito-jakartaee-archetype -DarchetypeVersion=1.0.0 -DgroupId=com.kodnito -DartifactId=my-book-store -Dversion=1.0-SNAPSHOT
+mvn archetype:generate -DarchetypeGroupId=com.kodnito -DarchetypeArtifactId=kodnito-jakartaee-archetype -DarchetypeVersion=1.0.1 -DgroupId=com.kodnito -DartifactId=my-book-store -Dversion=1.0-SNAPSHOT
