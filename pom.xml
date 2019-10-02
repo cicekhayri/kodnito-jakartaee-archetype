@@ -4,7 +4,7 @@
 
   <groupId>com.kodnito</groupId>
   <artifactId>kodnito-jakartaee-archetype-archetype</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>kodnito-jakartaee-archetype-archetype</name>
@@ -14,6 +14,7 @@
   <scm>
       <connection>scm:git:https://github.com/cicekhayri/kodnito-jakartaee-archetype.git/tags/v1.0.0</connection>
       <url>https://github.com/cicekhayri/kodnito-jakartaee-archetype/tags/v1.0.0</url>
+    <tag>v1.0.0</tag>
   </scm>
 
 
