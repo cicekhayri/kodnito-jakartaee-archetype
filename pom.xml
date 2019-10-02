@@ -4,7 +4,7 @@
 
   <groupId>com.kodnito</groupId>
   <artifactId>kodnito-jakartaee-archetype-archetype</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>kodnito-jakartaee-archetype-archetype</name>
