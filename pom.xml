@@ -8,7 +8,7 @@
 
     <groupId>com.kodnito</groupId>
     <artifactId>kodnito-jakartaee-archetype</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <packaging>maven-archetype</packaging>
 
     <name>kodnito-jakartaee-archetype</name>

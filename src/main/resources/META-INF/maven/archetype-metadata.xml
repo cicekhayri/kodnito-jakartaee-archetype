@@ -30,8 +30,10 @@
     <fileSet filtered="true" encoding="UTF-8">
       <directory></directory>
       <includes>
-        <include>.classpath</include>
-        <include>.project</include>
+				<include>.gitignore</include>
+				<include>README.md</include>
+				<include>Dockerfile</include>
+				<include>deployment.yml</include>
       </includes>
     </fileSet>
   </fileSets>
